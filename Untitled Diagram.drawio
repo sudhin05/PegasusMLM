@@ -1,0 +1,56 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.10">
+  <diagram name="Page-1" id="Ec1DETqcUA5zjuXljDLX">
+    <mxGraphModel dx="1690" dy="572" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DTNslXGr0kBtBJ7TC-j7-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="DTNslXGr0kBtBJ7TC-j7-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-32" y="229" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DTNslXGr0kBtBJ7TC-j7-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="DTNslXGr0kBtBJ7TC-j7-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="62" y="235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DTNslXGr0kBtBJ7TC-j7-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="DTNslXGr0kBtBJ7TC-j7-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="184" y="246" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DTNslXGr0kBtBJ7TC-j7-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="DTNslXGr0kBtBJ7TC-j7-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="269" y="232" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DTNslXGr0kBtBJ7TC-j7-10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="DTNslXGr0kBtBJ7TC-j7-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="382" y="224" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DTNslXGr0kBtBJ7TC-j7-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="119" y="97" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DTNslXGr0kBtBJ7TC-j7-2" value="Extractive" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="149" y="112" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTNslXGr0kBtBJ7TC-j7-11" value="GraphBased" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-97" y="227" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTNslXGr0kBtBJ7TC-j7-12" value="Feature Based" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="14" y="246" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTNslXGr0kBtBJ7TC-j7-13" value="LSA Topic Based" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="146" y="269" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTNslXGr0kBtBJ7TC-j7-15" value="Grammar Based" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="256" y="244" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTNslXGr0kBtBJ7TC-j7-16" value="NN Based&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="373" y="236" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
